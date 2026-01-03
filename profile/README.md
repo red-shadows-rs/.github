@@ -72,4 +72,4 @@ We work with startups, businesses, and individuals to deliver tailored and user-
 
 ---
 
-© 2023–2025 **Red Shadows | RS** — All rights reserved.
+© 2023–2026 **Red Shadows | RS** — All rights reserved.
