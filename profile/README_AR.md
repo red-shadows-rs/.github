@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <a href="README.md">
     <img src="https://img.shields.io/badge/English-1a0000?style=flat-square&logo=googletranslate&logoColor=white" alt="English Version" />
   </a>
@@ -62,9 +62,11 @@
 
 ---
 
-[![Website](https://img.shields.io/badge/Website-CC0000?style=flat-square&logo=googlechrome&logoColor=white)](https://red-shadows-rs.com)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=maildotru&logoColor=white)](mailto:info@red-shadows-rs.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/aCeUB7sB9P)
+### تواصل معنا
+
+- <img src="https://cdn.simpleicons.org/googlechrome/CC0000" width="16" align="center" /> **الموقع الإلكتروني:** [red-shadows-rs.com](https://red-shadows-rs.com)
+- <img src="https://cdn.simpleicons.org/maildotru/CC0000" width="16" align="center" /> **البريد الإلكتروني:** [info@red-shadows-rs.com](mailto:info@red-shadows-rs.com)
+- <img src="https://cdn.simpleicons.org/discord/5865F2" width="16" align="center" /> **ديسكورد:** [انضم إلى خادمنا](https://discord.gg/aCeUB7sB9P)
 
 <br>
 <sub>© 2021–2026 RED SHADOWS | RS — جميع الحقوق محفوظة.</sub>
