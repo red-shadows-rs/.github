@@ -1,75 +1,72 @@
+<div align="left">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/English-1a0000?style=flat-square&logo=googletranslate&logoColor=white" alt="English Version" />
+  </a>
+</div>
+
+<h2>
+  <img src="https://red-shadows-rs.com/logo.png" width="32" height="32" align="center" alt="RS"/>
+  &nbsp;RED SHADOWS | RS
+</h2>
+
 <div dir="rtl" align="right">
 
-# RED SHADOWS | RS
+نحن فريق تطوير برمجيات وأتمتة، نلتزم ببناء منتجات رقمية قوية، خفيفة، وفعالة. نقوم بتحويل الأفكار إلى مواقع ويب، تطبيقات، أدوات، وأنظمة أتمتة حديثة تعمل بأداء عالٍ وتتوسع عبر جميع المنصات.
 
-**RED SHADOW | RS** — هو فريق تطوير برمجيات شغوف ومبتكر ملتزم ببناء حلول قوية، خفيفة، وفعالة.  
-نحول الأفكار إلى مواقع ويب حديثة، تطبيقات، أدوات، وأنظمة أتمتة تعمل وتتوسع عبر جميع المنصات.
-
-نعمل مع الشركات الناشئة، الأعمال، والأفراد لتقديم منتجات رقمية مخصصة وسهلة الاستخدام.
-
-[English](README.md)
+نعمل مع الشركات الناشئة، المؤسسات، والأفراد لتقديم حلول برمجية مخصصة.
 
 ---
 
-### 💻 التقنيات المستخدمة
+### ما نقوم ببنائه
 
-#### 🧠 لغات البرمجة
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-#### ⚙️ أطر العمل والمكتبات
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-#### 🌍 تطوير الويب
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-#### 🗄️ إدارة قواعد البيانات
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### 📦 صيغ البيانات
-
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-%237e96b3?style=for-the-badge&logo=yaml&logoColor=white)
+- 🌐 **تطبيقات الويب** — React, Next.js, Node.js, Express, PHP
+- 📱 **تطبيقات الهاتف** — Flutter و Dart لنظامي Android و iOS
+- 🖥️ **تطبيقات سطح المكتب** — Electron و Java لأنظمة Windows, Linux, macOS
+- 🔌 **واجهات برمجة التطبيقات (APIs) والربط** — REST, OAuth 2.0، وخدمات الطرف الثالث
+- 🤖 **البوتات والأتمتة** — بوتات Telegram, Discord, WhatsApp، استخراج البيانات، وأتمتة سير العمل
+- ⚙️ **البنية التحتية (DevOps)** — Linux, Docker, Nginx، ومسارات CI/CD
 
 ---
 
-### 🔧 ماذا نبني
+### التقنيات المستخدمة
 
-- 🌐 **مواقع ويب** — سريعة، تفاعلية، ومحسنة لمحركات البحث باستخدام HTML، CSS، JavaScript، و WordPress
-- 📱 **تطبيقات الجوال** — تطبيقات متعددة المنصات للأندرويد والآيفون باستخدام Flutter
-- 🖥️ **تطبيقات سطح المكتب** — برمجيات للويندوز، لينكس، وماك باستخدام Electron & Java
-- 🤖 **بوتات وأتمتة** — بوتات تيليجرام، بوتات ديسكورد، أدوات سحب البيانات، أدوات الأتمتة
-- ⚙️ **أدوات مخصصة** — لوحات تحكم، واجهات برمجة تطبيقات (APIs)، وحلول أعمال
+#### اللغات البرمجية
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+#### تطوير الويب والخوادم
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=next.js&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+#### تطبيقات الهاتف وسطح المكتب
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+#### قواعد البيانات
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+#### عمليات التطوير والبنية التحتية
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-> في Red Shadows، نؤمن بالأداء، البساطة، والتأثير الحقيقي.  
-> نحن لا نكتب مجرد أكواد — نحن نصنع حلولاً ذات مغزى.
+[![Website](https://img.shields.io/badge/Website-CC0000?style=flat-square&logo=googlechrome&logoColor=white)](https://red-shadows-rs.com)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=maildotru&logoColor=white)](mailto:info@red-shadows-rs.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/aCeUB7sB9P)
 
----
-
-📫 **تواصل معنا:** [](mailto:)
-
----
-
-© 2023–2026 **Red Shadows | RS** — جميع الحقوق محفوظة.
+<br>
+<sub>© 2021–2026 RED SHADOWS | RS — جميع الحقوق محفوظة.</sub>
 
 </div>
