@@ -60,8 +60,11 @@ We work with startups, businesses, and individuals to deliver tailored software 
 
 ---
 
-[![Website](https://img.shields.io/badge/Website-CC0000?style=flat-square&logo=googlechrome&logoColor=white)](https://red-shadows-rs.com)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=maildotru&logoColor=white)](mailto:info@red-shadows-rs.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/aCeUB7sB9P)
+### Contact Us
 
+- <img src="https://cdn.simpleicons.org/googlechrome/CC0000" width="16" align="center" /> **Website:** [red-shadows-rs.com](https://red-shadows-rs.com)
+- <img src="https://cdn.simpleicons.org/maildotru/CC0000" width="16" align="center" /> **Email:** [info@red-shadows-rs.com](mailto:info@red-shadows-rs.com)
+- <img src="https://cdn.simpleicons.org/discord/5865F2" width="16" align="center" /> **Discord:** [Join our server](https://discord.gg/aCeUB7sB9P)
+
+<br>
 <sub>© 2021–2026 RED SHADOWS | RS — All rights reserved.</sub>
