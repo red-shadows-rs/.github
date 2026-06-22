@@ -1,4 +1,4 @@
-<div align="left">
+<div align="right">
   <a href="README.md">
     <img src="https://img.shields.io/badge/English-1a0000?style=flat-square&logo=googletranslate&logoColor=white" alt="English Version" />
   </a>
